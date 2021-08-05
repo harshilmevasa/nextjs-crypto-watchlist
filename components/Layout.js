@@ -26,8 +26,8 @@ const Layout = ({ children, title = "Crypto Tracker" }) => {
                   y2="96.7175267%"
                   id="linearGradient-1"
                 >
-                  <stop stop-color="#002E3B" offset="0%"></stop>
-                  <stop stop-color="#002639" offset="100%"></stop>
+                  <stop stopcolor="#002E3B" offset="0%"></stop>
+                  <stop stopcolor="#002639" offset="100%"></stop>
                 </linearGradient>
                 <linearGradient
                   x1="50%"
@@ -36,8 +36,8 @@ const Layout = ({ children, title = "Crypto Tracker" }) => {
                   y2="428.758892%"
                   id="linearGradient-2"
                 >
-                  <stop stop-color="#002E3B" offset="0%"></stop>
-                  <stop stop-color="#002639" offset="100%"></stop>
+                  <stop stopcolor="#002E3B" offset="0%"></stop>
+                  <stop stopcolor="#002639" offset="100%"></stop>
                 </linearGradient>
                 <radialGradient
                   cx="16.4234038%"
@@ -47,8 +47,8 @@ const Layout = ({ children, title = "Crypto Tracker" }) => {
                   r="295.57111%"
                   id="radialGradient-3"
                 >
-                  <stop stop-color="#00BC85" offset="0%"></stop>
-                  <stop stop-color="#149D91" offset="100%"></stop>
+                  <stop stopcolor="#00BC85" offset="0%"></stop>
+                  <stop stopcolor="#149D91" offset="100%"></stop>
                 </radialGradient>
                 <radialGradient
                   cx="16.423338%"
@@ -58,8 +58,8 @@ const Layout = ({ children, title = "Crypto Tracker" }) => {
                   r="357.003966%"
                   id="radialGradient-4"
                 >
-                  <stop stop-color="#00BC85" offset="0%"></stop>
-                  <stop stop-color="#149D91" offset="100%"></stop>
+                  <stop stopcolor="#00BC85" offset="0%"></stop>
+                  <stop stopcolor="#149D91" offset="100%"></stop>
                 </radialGradient>
                 <radialGradient
                   cx="11.4670327%"
@@ -69,8 +69,8 @@ const Layout = ({ children, title = "Crypto Tracker" }) => {
                   r="343.189366%"
                   id="radialGradient-5"
                 >
-                  <stop stop-color="#004473" offset="0%"></stop>
-                  <stop stop-color="#00345F" offset="100%"></stop>
+                  <stop stopcolor="#004473" offset="0%"></stop>
+                  <stop stopcolor="#00345F" offset="100%"></stop>
                 </radialGradient>
               </defs>
               <g>
