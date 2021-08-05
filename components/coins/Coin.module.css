@@ -1,0 +1,11 @@
+.coin_container {
+  display: flex;
+  justify-content: center;
+}
+.coin_row {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  height: 80px;
+}
